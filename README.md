@@ -1,6 +1,6 @@
 <h1>Hello, I'm Mateusz 🖐</h1>
 
-##I'm a Full-stack Software Developer!
+<h2>I'm a Full-stack Software Developer!</h2>
 
 - 🤓 I'm a very creative young programmer
 - 🏆 I'm not afraid of new challenges
@@ -8,7 +8,7 @@
 - 💡 Currently I'm working on my personal portfolio. For this purpose, I am learning UX/UI design and React
 - 🚀 Hobby: astronomy and newest technology
 
-##Languages and tools:
+<h2>Languages and tools:</h2>
 <img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
 &nbsp;
 &nbsp;
@@ -39,7 +39,7 @@
 <img align="left" alt="Instagram" width="35px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" />
 
 
-##Contact me:
+<h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
 <img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
 </a>
