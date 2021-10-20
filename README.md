@@ -45,7 +45,7 @@
 <br/>
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
-<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
+<img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/mateusz.skrzypczyk.9">
@@ -57,6 +57,6 @@
 </a>
 
 <a href="https://www.mskrzypczyk.dev">
-<img align="left" alt="Website" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/975/975645.svg" />
+<img align="left" alt="Website" width="30px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />
 </a>
 
