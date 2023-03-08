@@ -45,18 +45,18 @@
 <br/>
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
-<img align="left" alt="LinkedIn" width="30px" src="https://pic.onlinewebfonts.com/svg/img_24873.png" />
+<img align="left" alt="LinkedIn" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/mateusz.skrzypczyk.9">
-<img align="left" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+<img align="left" alt="Facebook" width="35px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_matt.dev">
-<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+<img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
 
 <a href="https://www.mskrzypczyk.dev">
-<img align="left" alt="Website" width="30px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />
+<img align="left" alt="Website" width="35px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />
 </a>
 
