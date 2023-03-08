@@ -22,9 +22,7 @@
 <h3>Frontend</h3>
 <div style="display:flex">
    <img alt="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/>
-  &nbsp; 
-  <img alt="Angular" width="35px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"/>
-  &nbsp; 
+  &nbsp;
   <img alt="TypeScript" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"/>
   &nbsp;
   <img alt="JS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
@@ -47,7 +45,7 @@
 <br/>
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
-<img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
+<img align="left" alt="LinkedIn" width="30px" src="https://pic.onlinewebfonts.com/svg/img_24873.png" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/mateusz.skrzypczyk.9">
