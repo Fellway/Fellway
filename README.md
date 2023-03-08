@@ -49,7 +49,7 @@
 </a>
 &nbsp;
 <a href="https://www.facebook.com/mateusz.skrzypczyk.9">
-<img align="left" alt="Facebook" width="35px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+<img align="left" alt="Facebook" width="35px" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_matt.dev">
