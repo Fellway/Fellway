@@ -11,7 +11,7 @@
 <h2>Languages and tools:</h2>
 <h3>Backend:</h3>
 <div style="display:flex; column-gap: 51px;">
-  <img alt="Java" width="35px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
+  <img alt="Java" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" />
   &nbsp;
   <img alt="Spring" width="35px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
   &nbsp;
