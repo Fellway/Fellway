@@ -53,7 +53,7 @@
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_matt.dev">
-<img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+<img align="left" alt="Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
 
 <a href="https://www.mskrzypczyk.dev">
