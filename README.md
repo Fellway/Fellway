@@ -13,6 +13,8 @@
 <div style="display:flex; column-gap: 51px;">
   <img alt="Java" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" />
   &nbsp;
+  <img alt="Kotlin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" />
+  &nbsp;
   <img alt="Spring" width="35px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
   &nbsp;
   <img alt="Hibernate" width="35px" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" />
