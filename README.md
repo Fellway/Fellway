@@ -1,5 +1,5 @@
 <h1>Hello, I'm Mateusz 🖐</h1>
-![image](https://www.codewars.com/users/uyncis/badges/large)
+<img src="header.png" />
 <img src="https://komarev.com/ghpvc/?username=fellway&color=brightgreen" alt="watching_count" />
 <div align="left">
     <a href="https://app.daily.dev/Fellway">
