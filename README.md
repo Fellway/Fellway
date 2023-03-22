@@ -1,9 +1,9 @@
 <h1>Hello, I'm Mateusz 🖐</h1>
 <div align="left">
-    <h2>I'm a Full-stack Software Developer!</h2>
-        <a href="https://app.daily.dev/Fellway">
+            <a href="https://app.daily.dev/Fellway">
         <img align="right" src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="250" alt="Mateusz Skrzypczyk's Dev Card"/>
     </a>
+    <h2>I'm a Full-stack Software Developer!</h2>
     <ul>
         <li>🤓 I'm a very creative young programmer</li>
         <li>🏆 I'm not afraid of new challenges</li>
