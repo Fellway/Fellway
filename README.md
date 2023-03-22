@@ -140,6 +140,7 @@
 </a>
 <br/>
 <h2>Stats:</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellway" alt="fellway" /></a> </p>
 <p>
     <img
         align="left"
