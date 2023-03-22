@@ -12,7 +12,7 @@
   <div>
     <a href="https://app.daily.dev/Fellway"><img src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="400" alt="Mateusz Skrzypczyk's Dev Card"/></a>
   </div>
-  </div>
+</div>
 <h2>Languages and tools:</h2>
 <h3>Backend:</h3>
 <div style="display:flex; column-gap: 51px;">
