@@ -16,6 +16,9 @@
         <li>💡 Currently I'm learning UX/UI design and React</li>
         <li>🚀 Hobby: science, astronomy and newest technology</li>
     </ul>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellway" alt="fellway" /></a> </p>
+    
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fellway&show_icons=true&locale=en" alt="fellway" /></p>
     <h2>Languages and tools:</h2>
     <h3>Backend:</h3>
     <div>
@@ -140,7 +143,6 @@
 </a>
 <br/>
 <h2>Stats:</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellway" alt="fellway" /></a> </p>
 <p>
     <img
         align="left"
