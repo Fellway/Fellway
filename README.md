@@ -8,6 +8,9 @@
         <li>💡 Currently I'm learning UX/UI design and React</li>
         <li>🚀 Hobby: science, astronomy and newest technology</li>
     </ul>
+    <a href="https://app.daily.dev/Fellway">
+        <img align="right" src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="250" alt="Mateusz Skrzypczyk's Dev Card"/>
+    </a>
     <h2>Languages and tools:</h2>
     <h3>Backend:</h3>
     <div>
@@ -41,9 +44,6 @@
     &nbsp;
     <img alt="Postman" width="35px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" />
     </div>
-    <a href="https://app.daily.dev/Fellway">
-        <img align="right" src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="100" alt="Mateusz Skrzypczyk's Dev Card"/>
-    </a>
 </div>
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
