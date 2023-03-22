@@ -1,6 +1,6 @@
 <table style="border: none !important; width: 100%;">
-    <tr style="border: none !important">
-        <td style="border: none !important">
+    <tr style="border: none !important;">
+        <td style="border: none !important; width: 75%">
             <div>
 <h1>Hello, I'm Mateusz 🖐</h1>
 
@@ -63,7 +63,7 @@
 </a>
 </div>
         </td>
-        <td style="border: none !important">
+        <td style="border: none !important; width: 25%">
             <div>
   <div>
     <a href="https://app.daily.dev/Fellway"><img src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="400" alt="Mateusz Skrzypczyk's Dev Card"/></a>
