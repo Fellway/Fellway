@@ -2,20 +2,17 @@
 
 <h2>I'm a Full-stack Software Developer!</h2>
 <div style="display: grid; grid-template-columns: 1fr 1fr">
-  <div>
-- 🤓 I'm a very creative young programmer
-- 🏆 I'm not afraid of new challenges
-- 📚 I'm learning new things with pleasure
-- 💡 Currently I'm learning UX/UI design and React
-- 🚀 Hobby: science, astronomy and newest technology
-  </div>
-  <div>
-    <a href="https://app.daily.dev/Fellway"><img src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="400" alt="Mateusz Skrzypczyk's Dev Card"/></a>
-  </div>
-</div>
+<div>
+  <ul>
+    <li>🤓 I'm a very creative young programmer</li>
+    <li>🏆 I'm not afraid of new challenges</li>
+    <li>📚 I'm learning new things with pleasure</li>
+    <li>💡 Currently I'm learning UX/UI design and React</li>
+    <li>🚀 Hobby: science, astronomy and newest technology</li>
+  </ul>
 <h2>Languages and tools:</h2>
 <h3>Backend:</h3>
-<div style="display:flex; column-gap: 51px;">
+<div>
   <img alt="Java" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" />
   &nbsp;
   <img alt="Kotlin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" />
@@ -46,7 +43,6 @@
   &nbsp;
   <img alt="Postman" width="35px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" />
 </div>
-
 <br/>
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
@@ -64,4 +60,11 @@
 <a href="https://www.mskrzypczyk.dev">
 <img align="left" alt="Website" width="35px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />
 </a>
+</div>
 
+<div>
+  <div>
+    <a href="https://app.daily.dev/Fellway"><img src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="400" alt="Mateusz Skrzypczyk's Dev Card"/></a>
+  </div>
+</div>
+</div>
