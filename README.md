@@ -11,9 +11,9 @@
         <li>💡 Currently I'm learning UX/UI design and React</li>
         <li>🚀 Hobby: science, astronomy and newest technology</li>
     </ul>
-    ![Metrics](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/github-metrics.svg)
-    ![Notable contributions](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/notable.svg)
-    ![Achievements](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/achievements.svg)
+![Metrics](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/achievements.svg)
     <h2>Languages and tools:</h2>
     <h3>Backend:</h3>
     <div>
