@@ -138,8 +138,8 @@
         src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png"
     />
 </a>
-
-<h3>Stats:</h3>
+<br/>
+<h2>Stats:</h2>
 <p>
     <img
         align="left"
