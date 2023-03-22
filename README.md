@@ -1,4 +1,4 @@
-<table style="border: 0; width: 100%;">
+<table style="border: none !important; width: 100%;">
     <tr>
         <td>
             <div>
