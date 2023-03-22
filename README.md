@@ -140,7 +140,9 @@
 </a>
 <br />
 <br />
-  <p align="left" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellway&no-frame=true&no-bg=true" alt="fellway" /></a> </p>
+  <p align="left" width="100%">
+    <img src="https://github-profile-trophy.vercel.app/?username=fellway&no-frame=true&no-bg=true" alt="fellway" /><
+    </p>
 <h2>Stats:</h2>
 <img src="https://komarev.com/ghpvc/?username=fellway&color=brightgreen" alt="watching_count" />
 <p>
