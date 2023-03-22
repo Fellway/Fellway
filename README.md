@@ -11,19 +11,9 @@
         <li>💡 Currently I'm learning UX/UI design and React</li>
         <li>🚀 Hobby: science, astronomy and newest technology</li>
     </ul>
-            <p align="left"> <img src="https://komarev.com/ghpvc/?username=fellway&label=Profile%20views&color=0e75b6&style=flat" alt="fellway" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellway" alt="fellway" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fellway&show_icons=true&locale=en&layout=compact" alt="fellway" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fellway&show_icons=true&locale=en" alt="fellway" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fellway&" alt="fellway" /></p>
+    ![Metrics](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/github-metrics.svg)
+    ![Notable contributions](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/notable.svg)
+    ![Achievements](https://raw.githubusercontent.com/Fellway/Fellway/github-metrics/achievements.svg)
     <h2>Languages and tools:</h2>
     <h3>Backend:</h3>
     <div>
