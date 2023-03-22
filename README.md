@@ -1,4 +1,3 @@
-<h1>Hello, I'm Mateusz 🖐</h1>
 <img src="header.png" />
 <img src="https://komarev.com/ghpvc/?username=fellway&color=brightgreen" alt="watching_count" />
 <div align="left">
