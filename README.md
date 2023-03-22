@@ -1,8 +1,10 @@
+<table style="border: 0; width: 100%;">
+    <tr>
+        <td>
+            <div>
 <h1>Hello, I'm Mateusz 🖐</h1>
 
 <h2>I'm a Full-stack Software Developer!</h2>
-<div style="display: grid; grid-template-columns: 1fr 1fr">
-<div>
   <ul>
     <li>🤓 I'm a very creative young programmer</li>
     <li>🏆 I'm not afraid of new challenges</li>
@@ -43,7 +45,6 @@
   &nbsp;
   <img alt="Postman" width="35px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" />
 </div>
-<br/>
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
 <img align="left" alt="LinkedIn" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
@@ -61,10 +62,15 @@
 <img align="left" alt="Website" width="35px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />
 </a>
 </div>
-
-<div>
+        </td>
+        <td>
+            <div>
   <div>
     <a href="https://app.daily.dev/Fellway"><img src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="400" alt="Mateusz Skrzypczyk's Dev Card"/></a>
   </div>
 </div>
-</div>
+        </td>
+    </tr>
+
+<br/>
+</table>
