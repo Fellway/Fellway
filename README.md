@@ -1,14 +1,17 @@
 <h1>Hello, I'm Mateusz 🖐</h1>
 
 <h2>I'm a Full-stack Software Developer!</h2>
-
+<div style="display: grid; grid-template-columns: 1fr 1fr">
+  <div>
 - 🤓 I'm a very creative young programmer
 - 🏆 I'm not afraid of new challenges
 - 📚 I'm learning new things with pleasure
 - 💡 Currently I'm learning UX/UI design and React
 - 🚀 Hobby: science, astronomy and newest technology
-- <div style="position: fixed; top: 0; right: 0;">
-<a href="https://app.daily.dev/Fellway"><img src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="400" alt="Mateusz Skrzypczyk's Dev Card"/></a>
+  </div>
+  <div>
+    <a href="https://app.daily.dev/Fellway"><img src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq" width="400" alt="Mateusz Skrzypczyk's Dev Card"/></a>
+  </div>
   </div>
 <h2>Languages and tools:</h2>
 <h3>Backend:</h3>
