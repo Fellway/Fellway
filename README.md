@@ -66,8 +66,21 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fellway&show_icons=true&locale=en&layout=compact" alt="fellway" /></p>
+<div>
+            <div style="width: 33%;">
+                        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fellway&show_icons=true&locale=en&layout=compact" alt="fellway" /></p>
+            </div>
+            <div style="width: 33%;">
+                        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fellway&show_icons=true&locale=en" alt="fellway" /></p>
+            </div>
+            <div style="width: 33%;">
+                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fellway&" alt="fellway" /></p>  
+            </div>
+                        
+     
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fellway&show_icons=true&locale=en" alt="fellway" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fellway&" alt="fellway" /></p>
+
+     
+</div>
+
