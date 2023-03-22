@@ -1,5 +1,4 @@
 <img src="header.png" />
-<img src="https://komarev.com/ghpvc/?username=fellway&color=brightgreen" alt="watching_count" />
 <div align="left">
     <a href="https://app.daily.dev/Fellway">
         <img
@@ -17,7 +16,6 @@
         <li>💡 Currently I'm learning UX/UI design and React</li>
         <li>🚀 Hobby: science, astronomy and newest technology</li>
     </ul>
-    <p align="left" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellway&no-frame=true&no-bg=true" alt="fellway" /></a> </p>
     <h2>Languages and tools:</h2>
     <h3>Backend:</h3>
     <div>
@@ -141,7 +139,10 @@
     />
 </a>
 <br />
+<br />
+  <p align="left" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fellway&no-frame=true&no-bg=true" alt="fellway" /></a> </p>
 <h2>Stats:</h2>
+<img src="https://komarev.com/ghpvc/?username=fellway&color=brightgreen" alt="watching_count" />
 <p>
     <img
         align="left"
