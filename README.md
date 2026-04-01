@@ -1,153 +1,100 @@
-<img src="header.png" />
-<div align="left">
-    <a href="https://app.daily.dev/Fellway">
-        <img
-            align="right"
-            src="https://api.daily.dev/devcards/e4e6ae60c15f4dbe93e43ace71e3c45d.png?r=giq"
-            width="250"
-            alt="Mateusz Skrzypczyk's Dev Card"
-        />
-    </a>
-    <h2>I'm a Full-stack Software Developer!</h2>
-    <ul>
-        <li>🤓 I'm a very creative young programmer</li>
-        <li>🏆 I'm not afraid of new challenges</li>
-        <li>📚 I'm learning new things with pleasure</li>
-        <li>💡 Currently I'm learning UX/UI design and React</li>
-        <li>🚀 Hobby: science, astronomy and newest technology</li>
-    </ul>
-    <h2>Languages and tools:</h2>
-    <h3>Backend:</h3>
-    <div>
-        <img
-            alt="Java"
-            width="35px"
-            src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png"
-        />
-        &nbsp;
-        <img
-            alt="Kotlin"
-            width="35px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png"
-        />
-        &nbsp;
-        <img
-            alt="Spring"
-            width="35px"
-            src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"
-        />
-        &nbsp;
-        <img
-            alt="Hibernate"
-            width="35px"
-            src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"
-        />
-    </div>
-    <h3>Frontend</h3>
-    <div style="display: flex">
-        <img
-            alt="React"
-            width="35px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"
-        />
-        &nbsp;
-        <img
-            alt="TypeScript"
-            width="35px"
-            src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png"
-        />
-        &nbsp;
-        <img
-            alt="JS"
-            width="35px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
-        />
-    </div>
-    <h3>Tools</h3>
-    <div style="display: flex">
-        <img
-            alt="Docker"
-            width="35px"
-            src="https://icon-library.com/images/social_media_social_media_logo_docker-512.png"
-        />
-        &nbsp;
-        <img
-            alt="PostgreSQL"
-            width="35px"
-            src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png"
-        />
-        &nbsp;
-        <img
-            alt="Intellij"
-            width="35px"
-            src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b5e7dcc-db45-4acb-8078-4f1e40191fe1/dbfye6x-ee5cf816-da93-4428-8cc6-e388e0b45136.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWI1ZTdkY2MtZGI0NS00YWNiLTgwNzgtNGYxZTQwMTkxZmUxXC9kYmZ5ZTZ4LWVlNWNmODE2LWRhOTMtNDQyOC04Y2M2LWUzODhlMGI0NTEzNi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ._0zGB33NIE1jhC583GLDwygXr5jsMVwfCaEtBWtWNt0"
-        />
-        &nbsp;
-        <img
-            alt="Visual Studio Code"
-            width="35px"
-            src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
-        />
-        &nbsp;
-        <img
-            alt="Git"
-            width="35px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png"
-        />
-        &nbsp;
-        <img
-            alt="Postman"
-            width="35px"
-            src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"
-        />
-    </div>
-</div>
-<h2>Contact me:</h2>
-<a href="https://www.linkedin.com/in/mateusz-skrzypczyk/">
-    <img
-        align="left"
-        alt="LinkedIn"
-        width="35px"
-        src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"
-    />
-</a>
-&nbsp;
-<a href="https://www.facebook.com/mateusz.skrzypczyk.9">
-    <img
-        align="left"
-        alt="Facebook"
-        width="35px"
-        src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png"
-    />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/_matt.dev">
-    <img
-        align="left"
-        alt="Instagram"
-        width="35px"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"
-    />
-</a>
+<div align="center">
 
-<a href="https://www.mskrzypczyk.dev">
-    <img
-        align="left"
-        alt="Website"
-        width="35px"
-        src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png"
-    />
-</a>
-<br />
-<h2>Stats:</h2>
-<img src="https://komarev.com/ghpvc/?username=fellway&color=brightgreen" alt="watching_count" />
-<p>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=fellway&show_icons=true&locale=en&layout=compact"
-        alt="fellway"
-    />
-</p>
-  <p align="left" width="100%">
-    <img src="https://github-profile-trophy.vercel.app/?username=fellway&no-frame=true&no-bg=true" alt="fellway" /><
-    </p>
+# Mateusz Skrzypczyk
+
+**Java Developer | Backend Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-skrzypczyk/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fellway)
+[![Website](https://img.shields.io/badge/Website-mskrzypczyk.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mskrzypczyk.dev)
+[![Email](https://img.shields.io/badge/Email-mateusz.skrzypczyk@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusz.skrzypczyk@hotmail.com)
+
+</div>
+
+---
+
+### About me
+
+Backend developer with 6+ years of experience building scalable, resilient systems in Java and Kotlin. Currently working at **empik**, designing and maintaining microservice architectures that power one of Poland's largest e-commerce platforms. Graduate of **Lodz University of Technology** (B.Eng. in Computer Science), where my thesis focused on remote security auditing of web applications.
+
+Outside of code, I'm into astronomy, photography, science, and gaming.
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Databases & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-D22128?style=flat-square&logo=apache&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Protocols & Architecture**
+
+![REST](https://img.shields.io/badge/REST-005571?style=flat-square&logo=openapiinitiative&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=moleculer&logoColor=white)
+
+</div>
+
+---
+
+### Experience
+
+| Period | Company | Role |
+|--------|---------|------|
+| 2021 - present | **empik** | Java Developer |
+| 2020 - 2021 | **Makolab** | Java Developer |
+| 2020 - 2021 | **Transition Technologies** | Junior Java Developer |
+| 2018 - 2019 | **Accenture** | Intern |
+
+---
+
+### Education
+
+**Lodz University of Technology** - Bachelor of Engineering in Computer Science *(2019 - 2023)*
+
+Thesis: *Remote system for conducting security audits of web applications*
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fellway&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellway&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+  <i>Open for new opportunities and collaboration!</i>
+</div>
