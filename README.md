@@ -84,17 +84,5 @@ Thesis: *Remote system for conducting security audits of web applications*
 ---
 
 <div align="center">
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fellway&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellway&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
-<div align="center">
   <i>Open for new opportunities and collaboration!</i>
 </div>
